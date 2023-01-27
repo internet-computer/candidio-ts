@@ -1,0 +1,20 @@
+{
+  "name": "candid-ts",
+  "version": "0.0.1",
+  "description": "map candid into idiomatic typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "candid",
+    "typescript",
+    "icp",
+    "internet",
+    "computer",
+    "dfinity",
+    "agent-js"
+  ],
+  "author": "",
+  "license": "ISC"
+}
